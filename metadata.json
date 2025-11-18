@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hệ thống Quản lý Hiệu suất Nhân sự (KPI)",
+  "description": "Một ứng dụng web chuyên nghiệp để quản lý, giám sát và báo cáo hiệu suất nhân sự thông qua KPIs. Hỗ trợ nhập liệu, theo dõi, thống kê, so sánh và tạo báo cáo theo tháng và năm, cùng với biểu đồ trực quan.",
+  "requestFramePermissions": []
+}
